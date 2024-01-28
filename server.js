@@ -6,7 +6,7 @@ const app = express();
 
 // Allow requests from specific origin (replace 'https://xxilytoo.github.io' with your actual domain)
 const corsOptions = {
-    origin: 'https://xxilytoo.github.io',
+    origin: 'https://xxilytoo.github.io/tamuhackpush/',
     methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
     credentials: true,
     optionsSuccessStatus: 204,
