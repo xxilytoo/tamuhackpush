@@ -1,0 +1,9 @@
+body{
+
+    background-image: url('oceanimage.jpeg');
+}
+/*title text styling*/
+.titletext{
+    color:pink;
+    background:#222;
+}
